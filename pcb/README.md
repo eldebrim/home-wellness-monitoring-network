@@ -1,5 +1,5 @@
 # PCB
-Steps To Build PCB:
+## Building PCB:
 1. Go to OSH Park website (https://oshpark.com/).
 2. Upload 'Board_1' from PCB Repository to the oshpark website by clicking the 'Browse For Files'.
 3. Wait for OSH park to process files.
